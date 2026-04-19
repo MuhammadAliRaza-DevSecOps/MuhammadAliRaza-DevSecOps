@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali Raza 👋</h1>
+<h1 align="center">Hi 👋, I'm Ali Raza</h1>
 
 <h3 align="center">DevSecOps Engineer | Cybersecurity | Cloud (AWS)</h3>
 
@@ -8,27 +8,65 @@
 
 <p align="center">
   <a href="mailto:infoman55.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-infoman55.it%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-infoman55.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-Ali%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadAliRaza-DevSecOps&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I am a Computer Science student with a strong interest in DevSecOps, Cybersecurity, and Cloud Engineering.
+I am a Computer Science student with a strong interest in **DevSecOps, Cybersecurity, and Cloud Engineering**.
 
-My work focuses on building systems that combine automation, security, monitoring, and scalability. I enjoy working on projects that involve CI/CD pipelines, containerized deployments, cloud infrastructure, and real-time threat detection.
+My work focuses on building systems that combine **automation, security, monitoring, and scalability**. I enjoy working on projects involving **CI/CD pipelines, containerized deployments, cloud infrastructure, governance awareness, and real-time threat detection**.
 
-I have worked on multiple projects ranging from secure DevSecOps implementations to web-based systems and distributed application concepts. My goal is to keep learning and building practical, production-oriented solutions.
+I have worked on multiple projects ranging from secure DevSecOps implementations to web-based systems and distributed application concepts. My goal is to keep building practical, production-oriented solutions that are reliable, secure, and well-structured.
 
 ---
 
-## What I Work With
+## 🚀 Featured Projects
+
+### 🔐 Shopcart DevSecOps System
+A practical DevSecOps implementation built across on-premises and cloud concepts, integrating CI/CD, containerization, orchestration, monitoring, and security tooling.
+
+**Highlights**
+- Jenkins CI/CD pipeline
+- Docker containerization
+- Kubernetes orchestration with HPA and Helm
+- SonarQube and Trivy integration
+- Wazuh SIEM monitoring
+- Prometheus and Grafana dashboards
+- Honeypot and email alerting concepts
+
+---
+
+### ☁️ AWS Deployment Project
+A cloud-based deployment project using AWS EC2, Docker Compose, Jenkins, and Ansible to automate application delivery and management.
+
+**Highlights**
+- AWS EC2 deployment
+- Docker Compose
+- Jenkins pipeline automation
+- Ansible-based provisioning and deployment
+- IAM, CloudTrail, and budget monitoring exposure
+
+---
+
+### 🗳️ Decentralized Voting System
+A project focused on structured voting logic with attention to trust, transparency, and system integrity.
+
+**Highlights**
+- Secure voting workflow design
+- Focus on transparency and integrity
+- Web-based implementation approach
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,kubernetes,aws,jenkins,html,css,js,mysql" />
@@ -45,45 +83,7 @@ I have worked on multiple projects ranging from secure DevSecOps implementations
 
 ---
 
-## Featured Projects
-
-### Shopcart DevSecOps System
-A practical DevSecOps implementation built across on-premises and cloud concepts, integrating CI/CD, containerization, orchestration, monitoring, and security tooling.
-
-**Highlights**
-- Jenkins CI/CD pipeline
-- Docker containerization
-- Kubernetes orchestration with HPA and Helm
-- SonarQube and Trivy integration
-- Wazuh SIEM monitoring
-- Prometheus and Grafana dashboards
-- Honeypot and email alerting concepts
-
----
-
-### AWS Deployment Project
-A cloud-based deployment project using AWS EC2, Docker Compose, Jenkins, and Ansible to automate application delivery and management.
-
-**Highlights**
-- AWS EC2 deployment
-- Docker Compose
-- Jenkins pipeline automation
-- Ansible-based provisioning and deployment
-- IAM, CloudTrail, and budget monitoring exposure
-
----
-
-### Decentralized Voting System
-A project focused on secure and structured voting logic with attention to trust, transparency, and system integrity.
-
-**Highlights**
-- Voting workflow implementation
-- Structured logic handling
-- Focus on security and reliability
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliRaza-DevSecOps&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -92,7 +92,7 @@ A project focused on secure and structured voting logic with attention to trust,
 
 ---
 
-## Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MuhammadAliRaza-DevSecOps&theme=tokyonight&hide_border=true" />
@@ -100,7 +100,7 @@ A project focused on secure and structured voting logic with attention to trust,
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliRaza-DevSecOps&theme=tokyo-night&hide_border=true" />
@@ -108,7 +108,15 @@ A project focused on secure and structured voting logic with attention to trust,
 
 ---
 
-## Current Focus
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🎯 Current Focus
 
 - DevSecOps and CI/CD automation
 - Secure cloud deployment practices
@@ -118,7 +126,7 @@ A project focused on secure and structured voting logic with attention to trust,
 
 ---
 
-## Connect With Me
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:infoman55.it@gmail.com">
@@ -129,17 +137,3 @@ A project focused on secure and structured voting logic with attention to trust,
 ---
 
 <p align="center"><i>Focused on building secure, scalable, and automated systems.</i></p>
-<!--
-**MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
