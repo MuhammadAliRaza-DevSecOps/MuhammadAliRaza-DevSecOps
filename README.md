@@ -106,6 +106,10 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 🔄 Auto Updated Recent Repositories
 
 <!-- START_RECENT_REPOS -->
+- 📦 **[portfolio-website](https://github.com/MuhammadAliRaza-DevSecOps/portfolio-website)**  
+  🔹 No description added yet.  
+  🔹 Language: `CSS` | Updated: `20 Apr 2026`
+
 - 📦 **[MuhammadAliRaza-DevSecOps](https://github.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps)**  
   🔹 No description added yet.  
   🔹 Language: `Python` | Updated: `20 Apr 2026`
@@ -125,10 +129,6 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 - 📦 **[decentralized-_voting_system](https://github.com/MuhammadAliRaza-DevSecOps/decentralized-_voting_system)**  
   🔹 No description added yet.  
   🔹 Language: `HTML` | Updated: `15 Apr 2025`
-
-- 📦 **[task-of-datatypes-](https://github.com/MuhammadAliRaza-DevSecOps/task-of-datatypes-)**  
-  🔹 No description added yet.  
-  🔹 Language: `Python` | Updated: `01 Mar 2025`
 <!-- END_RECENT_REPOS -->
 
 <p align="center">
@@ -158,10 +158,10 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 📌 Repository Insights
 
 <!-- START_REPO_INSIGHTS -->
-- 📦 Total Public Repositories: **7**
-- 🆕 Recently Updated Repository: **MuhammadAliRaza-DevSecOps**
-- ⭐ Most Starred Repository: **MuhammadAliRaza-DevSecOps**
-- 🧠 Main Languages Used: `Python` (3), `HTML` (2), `JavaScript` (2)
+- 📦 Total Public Repositories: **8**
+- 🆕 Recently Updated Repository: **portfolio-website**
+- ⭐ Most Starred Repository: **portfolio-website**
+- 🧠 Main Languages Used: `Python` (3), `HTML` (2), `JavaScript` (2), `CSS` (1)
 <!-- END_REPO_INSIGHTS -->
 
 <p align="center">
