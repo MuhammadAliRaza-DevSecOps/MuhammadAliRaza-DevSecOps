@@ -1,109 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
-
-<h3 align="center">DevSecOps Engineer | Cybersecurity | Cloud (AWS)</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer;Cybersecurity+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Threat+Detection+%7C+Security+Automation;Building+Secure%2C+Scalable+and+Automated+Systems" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Ali%20Raza&fontAlign=50&fontAlignY=40&desc=DevSecOps%20Engineer%20%7C%20Cybersecurity%20%7C%20Cloud%20%26%20CI%2FCD&descAlign=50&descAlignY=60&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="mailto:infoman55.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-infoman55.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadAliRaza-DevSecOps&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=DevSecOps+Engineer;Cybersecurity+Enthusiast;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS;Building+Secure%2C+Scalable+and+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
----
-
-## 🧠 About Me
-
-I am a Computer Science student with a strong interest in **DevSecOps, Cybersecurity, and Cloud Engineering**.
-
-My work focuses on building systems that combine **automation, security, monitoring, and scalability**. I enjoy working on projects involving **CI/CD pipelines, containerized deployments, cloud infrastructure, governance awareness, and real-time threat detection**.
-
-I have worked on multiple projects ranging from secure DevSecOps implementations to web-based systems and distributed application concepts. My goal is to keep building practical, production-oriented solutions that are reliable, secure, and well-structured.
+<h3 align="center">💻 DevSecOps Engineer | 🔐 Cybersecurity Enthusiast | ☁️ Cloud & Automation</h3>
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
 
-### 🔐 Shopcart DevSecOps System
-A practical DevSecOps implementation built across on-premises and cloud concepts, integrating CI/CD, containerization, orchestration, monitoring, and security tooling.
-
-**Highlights**
-- Jenkins CI/CD pipeline
-- Docker containerization
-- Kubernetes orchestration with HPA and Helm
-- SonarQube and Trivy integration
-- Wazuh SIEM monitoring
-- Prometheus and Grafana dashboards
-- Honeypot and email alerting concepts
-
----
-
-### ☁️ AWS Deployment Project
-A cloud-based deployment project using AWS EC2, Docker Compose, Jenkins, and Ansible to automate application delivery and management.
-
-**Highlights**
-- AWS EC2 deployment
-- Docker Compose
-- Jenkins pipeline automation
-- Ansible-based provisioning and deployment
-- IAM, CloudTrail, and budget monitoring exposure
-
----
-
-### 🗳️ Decentralized Voting System
-A project focused on structured voting logic with attention to trust, transparency, and system integrity.
-
-**Highlights**
-- Secure voting workflow design
-- Focus on transparency and integrity
-- Web-based implementation approach
+- 🎓 Computer Science student passionate about **DevSecOps, Cybersecurity, Cloud, and Automation**
+- 🔐 Focused on **secure CI/CD pipelines, monitoring, real-time threat detection, and cloud deployment**
+- 🚀 Working with **Docker, Kubernetes, Jenkins, AWS, Wazuh, Prometheus, Grafana, SonarQube, Trivy, Helm, and Linux**
+- 🌍 Open to **remote projects, internships, and international opportunities**
+- 📚 Always learning and improving in **DevOps, Cloud Security, SIEM, Automation, and Modern Infrastructure**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,kubernetes,aws,jenkins,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,aws,github,git,python,nodejs,mongodb,html,css,js" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-SIEM-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trivy-Vulnerability%20Scanning-1904DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grafana-Monitoring-F46800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trivy-Vulnerability%20Scanning-1904DA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Helm-Kubernetes%20Packages-0F1689?style=for-the-badge" />
 </p>
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 DevSecOps Final Year Project
+Built a complete DevSecOps pipeline with CI/CD, Docker, Kubernetes, HPA, Prometheus, Grafana, Wazuh, SonarQube, Trivy, and a honeypot.
+
+### 🔹 AWS Cloud Deployment
+Deployed a live Node.js + MongoDB application on AWS EC2 with Docker, Ansible, IAM, CloudTrail, Elastic IP, and Budget Alerts.
+
+### 🔹 Brute-Force Detection & Email Alerting
+Implemented a login protection mechanism with failed-attempt tracking, risk scoring, risk-level assignment, Gmail alerts, and temporary blocking.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadAliRaza-DevSecOps&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliRaza-DevSecOps&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliRaza-DevSecOps&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliRaza-DevSecOps&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliRaza-DevSecOps&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadAliRaza-DevSecOps&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadAliRaza-DevSecOps&theme=tokyo-night&hide_border=true" />
+  <a href="https://www.linkedin.com/in/Ali%20Raza">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:infoman55.it@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/MuhammadAliRaza-DevSecOps">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
@@ -111,29 +83,9 @@ A project focused on structured voting logic with attention to trust, transparen
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-- DevSecOps and CI/CD automation
-- Secure cloud deployment practices
-- Monitoring and threat detection
-- Practical cybersecurity projects
-- Building reliable and production-ready systems
-
----
-
-## 📫 Contact
 
 <p align="center">
-  <a href="mailto:infoman55.it@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120" />
 </p>
-
----
-
-<p align="center"><i>Focused on building secure, scalable, and automated systems.</i></p>
