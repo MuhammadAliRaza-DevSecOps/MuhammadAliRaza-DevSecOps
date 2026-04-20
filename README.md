@@ -103,6 +103,46 @@ I enjoy building systems that do more than just run — they **monitor, detect t
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
 </p>
 
+## 🔄 Auto Updated Recent Repositories
+
+<!-- START_RECENT_REPOS -->
+- Loading recent repositories...
+<!-- END_RECENT_REPOS -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
+</p>
+
+## 📝 Latest Commit Activity
+
+<!-- START_LATEST_COMMITS -->
+- Loading latest commit activity...
+<!-- END_LATEST_COMMITS -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
+</p>
+
+## ⭐ Recently Starred Repositories
+
+<!-- START_STARRED_REPOS -->
+- Loading recently starred repositories...
+<!-- END_STARRED_REPOS -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
+</p>
+
+## 📌 Repository Insights
+
+<!-- START_REPO_INSIGHTS -->
+- Loading repository insights...
+<!-- END_REPO_INSIGHTS -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
+</p>
+
 ## 🔥 Currently Working On
 
 - 🚀 Advanced DevSecOps Pipelines  
@@ -129,6 +169,16 @@ I enjoy building systems that do more than just run — they **monitor, detect t
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
 </p>
 
+## 📰 Blog / Posts
+
+<!-- START_BLOG_POSTS -->
+- Blog posts coming soon.
+<!-- END_BLOG_POSTS -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
+</p>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -143,10 +193,10 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
 </p>
 
-## 📈 Contribution Activity
+## 📈 Coding Activity
 
 <div align="center">
 
@@ -155,10 +205,10 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
 </p>
 
-## 🏅 Professional Highlights
+## 🏅 Professional Achievements
 
 <div align="center">
 
@@ -174,7 +224,7 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
 </p>
 
 ## 📜 Certifications
@@ -186,7 +236,7 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 - Cloud and Automation Practice
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
 </p>
 
 ## 🎯 Career Goal
@@ -194,7 +244,7 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 To grow as a strong **DevSecOps and Cybersecurity professional** capable of building **secure, scalable, and real-world systems** for global environments.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
 </p>
 
 ## 🤝 Open To
@@ -206,7 +256,7 @@ To grow as a strong **DevSecOps and Cybersecurity professional** capable of buil
 - Cloud and automation learning environments  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
 </p>
 
 ## 📁 Portfolio Highlights
@@ -220,7 +270,7 @@ To grow as a strong **DevSecOps and Cybersecurity professional** capable of buil
 | Programming Practice | C++, C, Python | Core logic and problem solving |
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
 </p>
 
 ## 🌐 Connect With Me
@@ -246,7 +296,7 @@ To grow as a strong **DevSecOps and Cybersecurity professional** capable of buil
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
 </p>
 
 ## 💬 Quote
@@ -254,7 +304,7 @@ To grow as a strong **DevSecOps and Cybersecurity professional** capable of buil
 > ⚡ **Security is not a feature — it is a continuous process.**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:1d4ed8,100:0f172a&height=4&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:7c3aed&height=4&section=header"/>
 </p>
 
 <div align="center">
