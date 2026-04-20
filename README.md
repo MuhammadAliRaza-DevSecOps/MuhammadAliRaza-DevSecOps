@@ -106,7 +106,29 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 🔄 Auto Updated Recent Repositories
 
 <!-- START_RECENT_REPOS -->
-- Loading recent repositories...
+- 📦 **[MuhammadAliRaza-DevSecOps](https://github.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps)**  
+  🔹 No description added yet.  
+  🔹 Language: `Python` | Updated: `20 Apr 2026`
+
+- 📦 **[Decentralized-Voting-System](https://github.com/MuhammadAliRaza-DevSecOps/Decentralized-Voting-System)**  
+  🔹 No description added yet.  
+  🔹 Language: `HTML` | Updated: `16 Apr 2026`
+
+- 📦 **[shopcart-pro](https://github.com/MuhammadAliRaza-DevSecOps/shopcart-pro)**  
+  🔹 No description added yet.  
+  🔹 Language: `JavaScript` | Updated: `15 Apr 2026`
+
+- 📦 **[html-js-node-mongo-app](https://github.com/MuhammadAliRaza-DevSecOps/html-js-node-mongo-app)**  
+  🔹 No description added yet.  
+  🔹 Language: `JavaScript` | Updated: `26 Mar 2026`
+
+- 📦 **[decentralized-_voting_system](https://github.com/MuhammadAliRaza-DevSecOps/decentralized-_voting_system)**  
+  🔹 No description added yet.  
+  🔹 Language: `HTML` | Updated: `15 Apr 2025`
+
+- 📦 **[task-of-datatypes-](https://github.com/MuhammadAliRaza-DevSecOps/task-of-datatypes-)**  
+  🔹 No description added yet.  
+  🔹 Language: `Python` | Updated: `01 Mar 2025`
 <!-- END_RECENT_REPOS -->
 
 <p align="center">
@@ -116,7 +138,7 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 📝 Latest Commit Activity
 
 <!-- START_LATEST_COMMITS -->
-- Loading latest commit activity...
+- No recent commit activity found.
 <!-- END_LATEST_COMMITS -->
 
 <p align="center">
@@ -126,7 +148,7 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## ⭐ Recently Starred Repositories
 
 <!-- START_STARRED_REPOS -->
-- Loading recently starred repositories...
+- No recently starred repositories found.
 <!-- END_STARRED_REPOS -->
 
 <p align="center">
@@ -136,7 +158,10 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 📌 Repository Insights
 
 <!-- START_REPO_INSIGHTS -->
-- Loading repository insights...
+- 📦 Total Public Repositories: **7**
+- 🆕 Recently Updated Repository: **MuhammadAliRaza-DevSecOps**
+- ⭐ Most Starred Repository: **MuhammadAliRaza-DevSecOps**
+- 🧠 Main Languages Used: `Python` (3), `HTML` (2), `JavaScript` (2)
 <!-- END_REPO_INSIGHTS -->
 
 <p align="center">
@@ -172,7 +197,8 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 📰 Blog / Posts
 
 <!-- START_BLOG_POSTS -->
-- Blog posts coming soon.
+- ✍️ Blog posts coming soon.
+- 📰 Project write-ups and learning notes will be added here.
 <!-- END_BLOG_POSTS -->
 
 <p align="center">
