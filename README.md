@@ -106,13 +106,13 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 🔄 Auto Updated Recent Repositories
 
 <!-- START_RECENT_REPOS -->
-- 📦 **[MuhammadAliRaza-DevSecOps](https://github.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps)**  
-  🔹 No description added yet.  
-  🔹 Language: `Python` | Updated: `22 Apr 2026`
-
 - 📦 **[html-js-node-mongo-app](https://github.com/MuhammadAliRaza-DevSecOps/html-js-node-mongo-app)**  
   🔹 No description added yet.  
   🔹 Language: `JavaScript` | Updated: `22 Apr 2026`
+
+- 📦 **[MuhammadAliRaza-DevSecOps](https://github.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps)**  
+  🔹 No description added yet.  
+  🔹 Language: `Python` | Updated: `22 Apr 2026`
 
 - 📦 **[portfolio-website](https://github.com/MuhammadAliRaza-DevSecOps/portfolio-website)**  
   🔹 No description added yet.  
@@ -159,8 +159,8 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 
 <!-- START_REPO_INSIGHTS -->
 - 📦 Total Public Repositories: **8**
-- 🆕 Recently Updated Repository: **MuhammadAliRaza-DevSecOps**
-- ⭐ Most Starred Repository: **MuhammadAliRaza-DevSecOps**
+- 🆕 Recently Updated Repository: **html-js-node-mongo-app**
+- ⭐ Most Starred Repository: **html-js-node-mongo-app**
 - 🧠 Main Languages Used: `Python` (3), `JavaScript` (2), `HTML` (2), `CSS` (1)
 <!-- END_REPO_INSIGHTS -->
 
