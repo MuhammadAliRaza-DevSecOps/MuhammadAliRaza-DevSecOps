@@ -106,6 +106,10 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 🔄 Auto Updated Recent Repositories
 
 <!-- START_RECENT_REPOS -->
+- 📦 **[shopcart-pro](https://github.com/MuhammadAliRaza-DevSecOps/shopcart-pro)**  
+  🔹 No description added yet.  
+  🔹 Language: `JavaScript` | Updated: `23 Apr 2026`
+
 - 📦 **[html-js-node-mongo-app](https://github.com/MuhammadAliRaza-DevSecOps/html-js-node-mongo-app)**  
   🔹 No description added yet.  
   🔹 Language: `JavaScript` | Updated: `23 Apr 2026`
@@ -121,10 +125,6 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 - 📦 **[Decentralized-Voting-System](https://github.com/MuhammadAliRaza-DevSecOps/Decentralized-Voting-System)**  
   🔹 No description added yet.  
   🔹 Language: `HTML` | Updated: `16 Apr 2026`
-
-- 📦 **[shopcart-pro](https://github.com/MuhammadAliRaza-DevSecOps/shopcart-pro)**  
-  🔹 No description added yet.  
-  🔹 Language: `JavaScript` | Updated: `15 Apr 2026`
 
 - 📦 **[decentralized-_voting_system](https://github.com/MuhammadAliRaza-DevSecOps/decentralized-_voting_system)**  
   🔹 No description added yet.  
@@ -159,8 +159,8 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 
 <!-- START_REPO_INSIGHTS -->
 - 📦 Total Public Repositories: **8**
-- 🆕 Recently Updated Repository: **html-js-node-mongo-app**
-- ⭐ Most Starred Repository: **html-js-node-mongo-app**
+- 🆕 Recently Updated Repository: **shopcart-pro**
+- ⭐ Most Starred Repository: **shopcart-pro**
 - 🧠 Main Languages Used: `Python` (3), `JavaScript` (2), `HTML` (2), `CSS` (1)
 <!-- END_REPO_INSIGHTS -->
 
