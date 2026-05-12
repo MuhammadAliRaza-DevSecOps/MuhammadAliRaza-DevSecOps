@@ -106,13 +106,13 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 🔄 Auto Updated Recent Repositories
 
 <!-- START_RECENT_REPOS -->
-- 📦 **[sentinel-ai](https://github.com/MuhammadAliRaza-DevSecOps/sentinel-ai)**  
+- 📦 **[MuhammadAliRaza-DevSecOps](https://github.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps)**  
   🔹 No description added yet.  
   🔹 Language: `Python` | Updated: `12 May 2026`
 
-- 📦 **[MuhammadAliRaza-DevSecOps](https://github.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps)**  
+- 📦 **[sentinel-ai](https://github.com/MuhammadAliRaza-DevSecOps/sentinel-ai)**  
   🔹 No description added yet.  
-  🔹 Language: `Python` | Updated: `09 May 2026`
+  🔹 Language: `Python` | Updated: `12 May 2026`
 
 - 📦 **[shopcart-pro](https://github.com/MuhammadAliRaza-DevSecOps/shopcart-pro)**  
   🔹 No description added yet.  
@@ -159,8 +159,8 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 
 <!-- START_REPO_INSIGHTS -->
 - 📦 Total Public Repositories: **9**
-- 🆕 Recently Updated Repository: **sentinel-ai**
-- ⭐ Most Starred Repository: **sentinel-ai**
+- 🆕 Recently Updated Repository: **MuhammadAliRaza-DevSecOps**
+- ⭐ Most Starred Repository: **MuhammadAliRaza-DevSecOps**
 - 🧠 Main Languages Used: `Python` (4), `JavaScript` (2), `HTML` (2), `CSS` (1)
 <!-- END_REPO_INSIGHTS -->
 
