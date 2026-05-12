@@ -106,6 +106,10 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 🔄 Auto Updated Recent Repositories
 
 <!-- START_RECENT_REPOS -->
+- 📦 **[sentinel-ai](https://github.com/MuhammadAliRaza-DevSecOps/sentinel-ai)**  
+  🔹 No description added yet.  
+  🔹 Language: `Python` | Updated: `12 May 2026`
+
 - 📦 **[MuhammadAliRaza-DevSecOps](https://github.com/MuhammadAliRaza-DevSecOps/MuhammadAliRaza-DevSecOps)**  
   🔹 No description added yet.  
   🔹 Language: `Python` | Updated: `09 May 2026`
@@ -125,10 +129,6 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 - 📦 **[Decentralized-Voting-System](https://github.com/MuhammadAliRaza-DevSecOps/Decentralized-Voting-System)**  
   🔹 No description added yet.  
   🔹 Language: `HTML` | Updated: `16 Apr 2026`
-
-- 📦 **[decentralized-_voting_system](https://github.com/MuhammadAliRaza-DevSecOps/decentralized-_voting_system)**  
-  🔹 No description added yet.  
-  🔹 Language: `HTML` | Updated: `15 Apr 2025`
 <!-- END_RECENT_REPOS -->
 
 <p align="center">
@@ -158,10 +158,10 @@ I enjoy building systems that do more than just run — they **monitor, detect t
 ## 📌 Repository Insights
 
 <!-- START_REPO_INSIGHTS -->
-- 📦 Total Public Repositories: **8**
-- 🆕 Recently Updated Repository: **MuhammadAliRaza-DevSecOps**
-- ⭐ Most Starred Repository: **MuhammadAliRaza-DevSecOps**
-- 🧠 Main Languages Used: `Python` (3), `JavaScript` (2), `HTML` (2), `CSS` (1)
+- 📦 Total Public Repositories: **9**
+- 🆕 Recently Updated Repository: **sentinel-ai**
+- ⭐ Most Starred Repository: **sentinel-ai**
+- 🧠 Main Languages Used: `Python` (4), `JavaScript` (2), `HTML` (2), `CSS` (1)
 <!-- END_REPO_INSIGHTS -->
 
 <p align="center">
